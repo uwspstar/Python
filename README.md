@@ -7,4 +7,5 @@ To NOT use that, run **python3**  instead of python .
 - "-"*30 . // print line wiht 30 -
 - 1 - 0.9 = 0.09999999999998
 - str = 'I \'M cool'
-- *** . //multiple line
+- *** //multiple line
+- \n //new line
