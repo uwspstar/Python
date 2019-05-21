@@ -1,8 +1,10 @@
 # Python 
 https://docs.python.org/3.7/tutorial/index.html
 
-### 05/19/2019
+### Learn Python by Building a Blockchain & Cryptocurrency by Maximilian Schwarzmüller
 https://www.udemy.com/learn-python-by-building-a-blockchain-cryptocurrency
+
+### 05/19/2019
 - This is especially important on macOS, where you already got Python 2.7 pre-installed. 
 To NOT use that, run **python3**  instead of python .
 
