@@ -38,6 +38,14 @@ z = str(3.0)  # z will be '3.0'
 - https://hackr.io/tutorials/learn-python
 - Python 3.7.3 documentation https://docs.python.org/3/
 - Unlike strings, which are immutable, lists are a mutable type, i.e. it is possible to change their content:
+```
+>>> cubes = [1, 8, 27, 65, 125]  # something's wrong here
+>>> 4 ** 3  # the cube of 4 is 64, not 65!
+64
+>>> cubes[3] = 64  # replace the wrong value
+>>> cubes
+[1, 8, 27, 64, 125]
+```
 - 2 ** 7  # 2 to the power of 7 //128
 - String literals can span multiple lines. One way is using triple-quotes: """...""" or '''...'''. 
 - word[2:5]  # characters from position 2 (included) to 5 (excluded)
