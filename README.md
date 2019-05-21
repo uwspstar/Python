@@ -55,9 +55,9 @@ word = 'python'
 ```
 - len(s)
 ```
-All slice operations return a new list containing the requested elements. This means that the following slice returns a new (shallow) copy of the list:
+All slice operations return a new list containing the requested elements. 
+This means that the following slice returns a new (shallow) copy of the list:
 
->>>
 >>> squares[:]
 [1, 4, 9, 16, 25]
 ```
