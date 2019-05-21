@@ -1,5 +1,5 @@
 # Python 
-https://docs.python.org/3/
+https://docs.python.org/3.7/tutorial/index.html
 
 ### 05/19/2019
 https://www.udemy.com/learn-python-by-building-a-blockchain-cryptocurrency
