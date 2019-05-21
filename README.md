@@ -37,3 +37,27 @@ z = str(3.0)  # z will be '3.0'
 ### 05/20/2019
 - https://hackr.io/tutorials/learn-python
 - Python 3.7.3 documentation https://docs.python.org/3/
+- Unlike strings, which are immutable, lists are a mutable type, i.e. it is possible to change their content:
+- 2 ** 7  # 2 to the power of 7 //128
+- String literals can span multiple lines. One way is using triple-quotes: """...""" or '''...'''. 
+- word[2:5]  # characters from position 2 (included) to 5 (excluded)
+- Note how the start is always included, and the end always excluded. 
+This makes sure that s[:i] + s[i:] is always equal to s:
+- the length of word[1:3] is 2
+```
+word = 'python'
+>>> word[:2]   # character from the beginning to position 2 (excluded)
+'Py'
+>>> word[4:]   # characters from position 4 (included) to the end
+'on'
+>>> word[-2:]  # characters from the second-last (included) to the end
+'on'
+```
+- len(s)
+```
+All slice operations return a new list containing the requested elements. This means that the following slice returns a new (shallow) copy of the list:
+
+>>>
+>>> squares[:]
+[1, 4, 9, 16, 25]
+```
