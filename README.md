@@ -69,3 +69,5 @@ This means that the following slice returns a new (shallow) copy of the list:
 >>> squares[:]
 [1, 4, 9, 16, 25]
 ```
+### 05/21/2019
+- PEB 8 - Style Guide: https://www.python.org/dev/peps/pep-0008/
