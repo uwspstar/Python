@@ -1,6 +1,12 @@
 # Python 
 https://docs.python.org/3.7/tutorial/index.html
 
+- ### Amazon : Build a Modern Web Application in Python
+https://aws.amazon.com/getting-started/projects/build-modern-app-fargate-lambda-dynamodb-python/
+
+- ### Heroku : Getting Started on Heroku with Python
+https://devcenter.heroku.com/articles/getting-started-with-python
+
 ### Learn Python by Building a Blockchain & Cryptocurrency by Maximilian Schwarzmüller
 https://www.udemy.com/learn-python-by-building-a-blockchain-cryptocurrency
 
